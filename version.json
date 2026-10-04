@@ -2,7 +2,9 @@
   "version": "1.0.1",
   "download_url": "https://github.com/GameTogether1/Software/releases/download/v1.0.1/GameTogether_v1.0.1.7z",
   "download_mirrors": [
-    "https://ghproxy.com/https://github.com/GameTogether1/Software/releases/download/v1.0.1/GameTogether_v1.0.1.7z",
+    "https://ghproxy.net/https://github.com/GameTogether1/Software/releases/download/v1.0.1/GameTogether_v1.0.1.7z",
+    "https://gh-proxy.com/https://github.com/GameTogether1/Software/releases/download/v1.0.1/GameTogether_v1.0.1.7z",
+    "https://ghproxy.homeboyc.cn/https://github.com/GameTogether1/Software/releases/download/v1.0.1/GameTogether_v1.0.1.7z",
     "https://ghfast.top/https://github.com/GameTogether1/Software/releases/download/v1.0.1/GameTogether_v1.0.1.7z"
   ],
   "release_notes": "本次更新：删除了测试版的内容",
