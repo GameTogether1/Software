@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://gitee.com/GameTogether1/game-together-release/releases/download/v1.0.1/GameTogether_v1.0.1.zip",
+  "version": "261005",
+  "download_url": "https://gitee.com/GameTogether1/game-together-release/releases/download/v261005/GameTogether_v261005.zip",
   "download_mirrors": [
-    "https://ghproxy.net/https://github.com/GameTogether1/Software/releases/download/v1.0.1/GameTogether_v1.0.1.zip",
-    "https://gh-proxy.com/https://github.com/GameTogether1/Software/releases/download/v1.0.1/GameTogether_v1.0.1.zip"
+    "https://ghproxy.net/https://github.com/GameTogether1/Software/releases/download/v261005/GameTogether_v261005.zip",
+    "https://gh-proxy.com/https://github.com/GameTogether1/Software/releases/download/v261005/GameTogether_v261005.zip"
   ],
-  "release_notes": "本次更新：删除了测试版的内容",
+  "release_notes": "本次更新：\n- 修改窗口标题为「一块游戏盒子」\n- 美化顶部标题栏",
   "force": false
 }
