@@ -86,16 +86,6 @@ GameTogether 一块游戏盒子 - 下载与更新
 
 ---
 
-## 📸 界面预览
-
-| 主页 | 单机游戏 | 外网 ACG |
-|:---:|:---:|:---:|
-| ![主页](https://via.placeholder.com/300x200/1a1d24/e6e8ee?text=Home) | ![单机](https://via.placeholder.com/300x200/1a1d24/e6e8ee?text=PC) | ![ACG](https://via.placeholder.com/300x200/1a1d24/e6e8ee?text=ACG) |
-
-> （截图占位，可后续上传实际截图）
-
----
-
 ## ❓ 常见问题
 
 **Q：Windows 提示"未知发布者"怎么办？**
