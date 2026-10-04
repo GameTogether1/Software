@@ -5,7 +5,7 @@ GameTogether 一块游戏盒子 - 下载与更新
 > 一站式游戏资源浏览与管理工具。整合 **单机游戏**、**外网 ACG**、**Switch 掌机** 三大专区，支持搜索、筛选、收藏、更新。
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-v1.0.8-blue?style=flat-square" alt="version">
+  <img src="https://img.shields.io/badge/版本-v1.0.2-blue?style=flat-square" alt="version">
   <img src="https://img.shields.io/badge/平台-Windows-0078d4?style=flat-square" alt="platform">
   <img src="https://img.shields.io/badge/许可-免费使用-green?style=flat-square" alt="license">
 </p>
