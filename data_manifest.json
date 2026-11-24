@@ -1,0 +1,10 @@
+{
+  "version": "2026-11-24.1415",
+  "updatedAt": "2026-11-24 14:15:54",
+  "files": {
+    "game.txt": "https://cdn.jsdelivr.net/gh/GameTogether1/Software@main/data/game.txt",
+    "switch_games.json": "https://cdn.jsdelivr.net/gh/GameTogether1/Software@main/data/switch_games.json",
+    "game.json": "https://cdn.jsdelivr.net/gh/GameTogether1/Software@main/data/game.json",
+    "announcements.json": "https://cdn.jsdelivr.net/gh/GameTogether1/Software@main/data/announcements.json"
+  }
+}
