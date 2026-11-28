@@ -1,9 +1,9 @@
 {
-  "version": "2.0.1",
-  "download_url": "https://gitee.com/GameTogether1/game-together-release/releases/download/v2.0.1/GameTogether_v2.0.1.zip",
+  "version": "2.0.2",
+  "download_url": "https://gitee.com/GameTogether1/game-together-release/releases/download/v2.0.2/GameTogether_v2.0.2.zip",
   "download_mirrors": [
-    "https://ghproxy.net/https://github.com/GameTogether1/Software/releases/download/v2.0.1/GameTogether_v2.0.1.zip",
-    "https://gh-proxy.com/https://github.com/GameTogether1/Software/releases/download/2.0.1/GameTogether_v2.0.1.zip"
+    "https://ghproxy.net/https://github.com/GameTogether1/Software/releases/download/v2.0.2/GameTogether_v2.0.2.zip",
+    "https://gh-proxy.com/https://github.com/GameTogether1/Software/releases/download/2.0.2/GameTogether_v2.0.2.zip"
   ],
   "release_notes": "每周常规更新",
   "force": false
