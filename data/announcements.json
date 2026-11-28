@@ -1,0 +1,664 @@
+[
+  {
+    "title": "本周更新游戏",
+    "subtitle": "单机游戏",
+    "type": "pc",
+    "games": [
+      {
+        "id": "BENTOBLOCKS",
+        "name": "bento blocks",
+        "image": "https://pic1.imgdb.cn/i/0355EgaOm8vnZDHAQYi83H.jpg",
+        "thunderLink": "https://pan.xunlei.com/s/VP7NBHlxz0011SMXukfWXLnmA1?pwd=w39q#",
+        "quarkLink": "https://pan.quark.cn/s/50b83ed364c4",
+        "description": "在这款温馨而又富有挑战性的切割配料益智游戏中制作美味的午餐盒。",
+        "category": "解谜",
+        "size": "136MB",
+        "rating": 9.7
+      },
+      {
+        "id": "DQGJLQK",
+        "name": "咚奇刚：蕉力全开",
+        "image": "https://pic1.imgdb.cn/i/0355Ega3KMD5qnYXm6htmh.jpg",
+        "thunderLink": "",
+        "quarkLink": "https://pan.quark.cn/s/0ac4a33be19f",
+        "description": "玩家将控制咚奇刚与少女宝琳一同深入地下世界,从邪恶组织手中夺回黄金香蕉“蕉钻石”",
+        "category": "冒险",
+        "size": "8.8GB",
+        "rating": 8.9
+      },
+      {
+        "id": "HYWZWLQS",
+        "name": "火焰纹章 万缕千丝",
+        "image": "https://pic1.imgdb.cn/i/0355ErxFz2scBjfwfAJs15.jpg",
+        "thunderLink": "",
+        "quarkLink": "https://pan.quark.cn/s/8876ba50cdcd",
+        "description": "你身为背负着宿命的救世主，集结一起战斗的伙伴，迎向一场世界存亡之战",
+        "category": "冒险",
+        "size": "26.8GB",
+        "rating": 7.6
+      },
+      {
+        "id": "XDLC6",
+        "name": "侠盗猎车6(待优化)",
+        "image": "https://pic1.imgdb.cn/i/0355Erxmdb9IaGelXd5Eyq.webp",
+        "thunderLink": "https://pan.xunlei.com/s/VP7PmtCPtuQFB9-g9DFc1T5DA1?pwd=rj2a#",
+        "quarkLink": "",
+        "description": "世界第一开放世界游戏",
+        "category": "冒险",
+        "size": "210GB",
+        "rating": 9.0
+      }
+    ]
+  },
+  {
+    "title": "本周更新游戏",
+    "subtitle": "外网 ACG",
+    "type": "acg",
+    "games": [
+      {
+        "id": 633,
+        "titleCn": "果然游戏中我的青春恋爱物语也有问题三部曲",
+        "titleEn": "Yahari Game demo Ore no Seishun Love Come wa Machigatteiru",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/YGDONSLCWM1.webp",
+        "tags": [
+          "视觉小说",
+          "特别好评",
+          "4.4GB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/YGDONSLCWM2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/YGDONSLCWM3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/YGDONSLCWM4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/YGDONSLCWM5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/3749d3406d95",
+        "thunderLink": "https://pan.xunlei.com/s/VP7861OZ4Njlyhz7Dm2_oL5RA1?pwd=mpsq#"
+      },
+      {
+        "id": 634,
+        "titleCn": "股市之狼",
+        "titleEn": "Wolf of Stock Street",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/WOSS1.webp",
+        "tags": [
+          "视觉小说",
+          "多半好评",
+          "829MB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/WOSS2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/WOSS3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/WOSS4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/WOSS5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/fcba46d6fe47",
+        "thunderLink": "https://pan.xunlei.com/s/VP7SN3J4NFEyrdPCD4J_akoAA1?pwd=cxar#"
+      },
+      {
+        "id": 635,
+        "titleCn": "墮落的聖女們：無法實現的祈禱",
+        "titleEn": "The Sinful Nuns: Undelivered Prayers",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TSNUP1.webp",
+        "tags": [
+          "视觉小说",
+          "特别好评",
+          "463MB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TSNUP2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TSNUP3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TSNUP4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TSNUP5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/4b3985a7acdd",
+        "thunderLink": "https://pan.xunlei.com/s/VP7SNxogGethQMstx-ALNbeeA1?pwd=xry5#"
+      },
+      {
+        "id": 636,
+        "titleCn": "纵身入局：第一章",
+        "titleEn": "Leap Into Life Episode 1",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/LILE11.webp",
+        "tags": [
+          "视觉小说",
+          "好评",
+          "5.81GB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/LILE12.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/LILE13.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/LILE14.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/LILE15.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/cc3ed7ade371",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UFAmWUM9FeHMl1v2kG8GvA1?pwd=cqth#"
+      },
+      {
+        "id": 637,
+        "titleCn": "艾米直播起源：游戏女王尼亚",
+        "titleEn": "EmyLiveShow Origins: Nia The Gamer Queen",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/ELSONTGQ1.webp",
+        "tags": [
+          "视觉小说",
+          "好评",
+          "565MB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/ELSONTGQ2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/ELSONTGQ3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/ELSONTGQ4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/ELSONTGQ5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/aa72a02900d6",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UFvD3edgu5tby2TWmiRwNA1?pwd=6nyc#"
+      },
+      {
+        "id": 638,
+        "titleCn": "ROZE：零熵的亡魂",
+        "titleEn": "ROZE: The Revenant of Zero Entropy",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/RTROZE1.webp",
+        "tags": [
+          "视觉小说",
+          "褒贬不一",
+          "1.87GB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/RTROZE2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/RTROZE3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/RTROZE4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/RTROZE5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/e6661c22e850",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UJDzWXcDCELpmscYXdANkA1?pwd=wr2g#"
+      },
+      {
+        "id": 639,
+        "titleCn": "好色幽灵的诅咒",
+        "titleEn": "The Curse of the Horny Ghost",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TCOTHG1.webp",
+        "tags": [
+          "视觉小说",
+          "好评",
+          "1.45GB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TCOTHG2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TCOTHG3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TCOTHG4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TCOTHG5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/52019c34a48c",
+        "thunderLink": "https://pan.xunlei.com/s/VP7ULyU6UM9FeHMl1v2kLop-A1?pwd=6736#"
+      },
+      {
+        "id": 640,
+        "titleCn": "我的哥特老婆：变态拼图",
+        "titleEn": "My Goth Waifu: Hentai Puzzle",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/MGWHP1.webp",
+        "tags": [
+          "视觉小说",
+          "好评",
+          "161MB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/MGWHP2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/MGWHP3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/MGWHP4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/MGWHP5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/839f718b48d9",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UMhuOxB6w8as8DByM8_x2A1?pwd=j6hb#"
+      },
+      {
+        "id": 641,
+        "titleCn": "站街人生！",
+        "titleEn": "Streetwalker Life!",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SL1.webp",
+        "tags": [
+          "RPG",
+          "褒贬不一",
+          "1.5GB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SL2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SL3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SL4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SL5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/60c23c607954",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UP21mmHKOcAtt-JIrJ8r4A1?pwd=simq#"
+      },
+      {
+        "id": 642,
+        "titleCn": "性感假期",
+        "titleEn": "Sexy Vacation",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SV1.webp",
+        "tags": [
+          "视觉小说",
+          "好评",
+          "1.96GB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SV2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SV3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SV4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SV5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/0bd05ebe0cc6",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UQDTNGethQMstx-ANFmZsA1?pwd=5wjb#"
+      },
+      {
+        "id": 643,
+        "titleCn": "人妻三国志 ～曹操贞操保卫战～",
+        "titleEn": "Three Kingdoms: Cao Cao’s Chastity Defense",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TKCCSCD1.webp",
+        "tags": [
+          "RPG",
+          "特别好评",
+          "785MB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TKCCSCD2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TKCCSCD3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TKCCSCD4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/TKCCSCD5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/e5c88a5f903b",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UTFYcIAIX8Qh2oj3F1cTOA1?pwd=k5dm#"
+      },
+      {
+        "id": 644,
+        "titleCn": "精喜全孕会",
+        "titleEn": "Gooning for Gold",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/GFG1.webp",
+        "tags": [
+          "视觉小说",
+          "好评",
+          "1.34GB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/GFG2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/GFG3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/GFG4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/GFG5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/fd3891359a05",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UV2CMira0e2KzqEjch0VJA1?pwd=ruw6#"
+      },
+      {
+        "id": 645,
+        "titleCn": "极上人妻-盛夏派对",
+        "titleEn": "Perfect Wives: Midsummer Party",
+        "coverImage": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/PWMP1.webp",
+        "tags": [
+          "Unity",
+          "多半好评",
+          "357MB"
+        ],
+        "previewImages": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/PWMP2.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/PWMP3.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/PWMP4.webp",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/PWMP5.webp"
+        ],
+        "quarkLink": "https://pan.quark.cn/s/23eb650bcdc4",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UVluzOcEwMW0-tdECVyB_A1?pwd=22p9#"
+      }
+    ]
+  },
+  {
+    "title": "本周更新游戏",
+    "subtitle": "Switch 掌机",
+    "type": "switch",
+    "games": [
+      {
+        "id": 2873,
+        "name": "未来骑士 v1.5.0",
+        "nameEn": "Future Knight",
+        "type": "SJYX",
+        "typeLabel": "射击游戏",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2873/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2873/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2873/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2873/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2873/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2873/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2873/006.png"
+        ],
+        "description": "\n【类型】2D动作射击/平台跳跃/协同战斗/复古怀旧\n【剧情】故事设定在1993年5月23日，距离世界末日仅剩8小时。一个名为“过去女士”的邪教头目刚刚洗清了全人类的大脑。玩家将扮演一台由90年代肥皂剧演员残骸耗时30年建造的机器人“FutureKnight”，与一个拥有自主意识且莫名其妙强大的良性肿瘤“TwoMore”搭档。你们必须穿越回过去，破坏这位女士当天的日程表，阻止她抹去人类的记忆。\n【玩法】核心为“双角色协同+瞬间切换+暴力编舞+时间赛跑”：\n1.双角色协同作战：游戏的核心在于“协同”。FutureKnight是力量担当，使用量子等离子爆能枪、重型武器和致命撕咬制造混乱；TwoMore则是敏捷担当，能利用天然粘性攀爬墙壁、进行超级冲刺并挤进狭窄空间；\n2.瞬间切换机制：玩家可在两个角色间瞬间切换，编排致命的动作连招。利用TwoMore可以恢复FutureKnight的生命值，而使用FutureKnight则能为TwoMore充能；\n3.极限时间赛跑：游戏包含8个关卡（生物群系），每一个关卡代表末日前的一个小时。玩家需在横向与纵向卷轴之间穿梭，跨越危险建筑工地、致命寿司传送带等场景。\n【适合人群】《恶魔城》《星际火狐》等复古动作游戏爱好者；喜欢独特视觉美学、快节奏射击与平台跳跃的玩家；热衷于双角色操作与连招构筑的受众；PC、PS5、XboxSeries及NintendoSwitch玩家。\n【特色】2026年8月13日PC版首发，8月14日登陆主机平台。\n本作最大的亮点在于其“LCDNeo-Retro（液晶新复古）”美术风格。游戏发生在计算器和液晶显示屏的技术内部，受今敏作品及日式怪诞风启发，将可爱与怪诞完美融合，呈现出宛如“流动墨迹”般的独特手绘像素动画。\n游戏支持简体中文，流程紧凑，是一款适合碎片时间体验的“小而准”的怀旧小品。\n【语言】原生支持简体中文、繁体中文、英文、日文、韩文等多语言界面与全字幕。\n文本翻译精准还原了游戏的黑色幽默、社会讽刺与怪诞超现实的叙事语感。\n全程无语音对白，但BGM与音效极具80年代便携电子游戏的复古韵味，配合流畅的手绘动画，将怀旧与猎奇的氛围烘托到极致。",
+        "quarkLink": "https://pan.quark.cn/s/87f90ee578e9",
+        "thunderLink": "https://pan.xunlei.com/s/VP7RJXnSCNE-Uiz1YoZVYf-HA1?pwd=kkvd#"
+      },
+      {
+        "id": 2874,
+        "name": "初音未来逻辑绘画 v1.2.2",
+        "nameEn": "S Hatsune Miku Logic Paint S",
+        "type": "YZSN",
+        "typeLabel": "益智烧脑",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2874/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2874/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2874/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2874/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2874/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2874/005.png"
+        ],
+        "description": "\n【类型】逻辑解谜/数织(Nonogram)/休闲益智/像素绘画\n【剧情】本作没有复杂的剧情线，而是主打轻松的陪伴感。玩家可以在初音未来及其他Piapro角色的专属房间中，与他们并肩作战。在破解难缠的谜题时，初音和朋友们会在一旁为你加油打气，提供满满的情绪价值。\n【玩法】核心为“数字线索推演+X标记排雷+插图收集”：\n1.经典数织机制：利用谜题上方和左侧的数字作为线索，通过逻辑推演判断每个格子的颜色，逐步填充空格，最终完成一幅完整的插画；\n2.防错“X”标记：在不想填充的空格中放置一个“X”，可以有效避免误操作和犯错，降低试错成本；\n3.海量难度递进：包含超过350个谜题，网格大小从5×5、10×10、15×15到新增的20×20不等，难度层层递进，极度考验逻辑思维能力。\n【适合人群】《数织》《Picross》等逻辑解谜游戏爱好者；初音未来及Vocaloid系列粉丝；喜欢像素艺术、收集精美插画与治愈系氛围的玩家；PC、PS4/PS5及NintendoSwitch玩家。\n【特色】2026年3月19日全平台发售（PS4/PS5版定价HK$198.00，常有折扣）。\n本作最大的亮点在于其“解谜+收集”的双重正反馈。完成关卡不仅能获得成就感，还能解锁美轮美奂的精美插图。此外，游戏还收录了30首由Piapro官方选定的特别粉丝创作歌曲，玩家可一边解谜一边聆听，沉浸感极佳。\n【语言】原生支持简体中文、繁体中文、英文、日文、韩文等多语言界面。\n文本翻译贴合了数织解谜的提示语感与初音系列的可爱风格。\n全程无语音对白，但BGM包含海量优质Piapro音乐，配合填色时的清脆音效与角色的应援反馈，将治愈与放松的氛围烘托到极致。",
+        "quarkLink": "https://pan.quark.cn/s/10f3f1575f76",
+        "thunderLink": "https://pan.xunlei.com/s/VP7RJU9SH2JQeh2zNcBhMP3gA1?pwd=fk7w#"
+      },
+      {
+        "id": 2875,
+        "name": "秽翼的尤斯蒂娅 穢翼のユースティア",
+        "nameEn": "",
+        "type": "LYYC",
+        "typeLabel": "恋爱养成",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2875/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2875/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2875/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2875/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2875/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2875/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2875/006.png"
+        ],
+        "description": "\n【类型】恋爱冒险(AVG)/视觉小说/黑暗幻想/剧情驱动\n【剧情】故事发生在一座名为“诺瓦斯·艾蒂尔”的漂浮都市。在灾厄“大崩落”之后，城市阶层彻底撕裂，底层的弃置之地“牢狱”成为了贫困与暴力日常化的深渊。主角凯伊姆在牢狱中意外救下了一名身患“羽化病”（背后长出羽翼）的神秘少女尤斯蒂娅。随着两人的羁绊加深，凯伊姆被逐步卷入教会、王室等上层权力的漩涡，最终一步步逼近这座罪恶之城背后残酷的真相。\n【玩法】核心为“人生相谈模式+多线叙事+单线真结局+深度抉择”：\n1.人生相谈系统：游戏通过独特的“人生相谈”模式架构剧情，玩家在与不同角色的互动中，不仅推动好感度，更在潜移默化中影响主角凯伊姆的价值观与成长轨迹；\n2.阶层递进的叙事结构：游戏的女主路线暗含阶层递进（从底层平民、贵族到神官、圣者），其他女主的路线是通向真相的铺垫，唯有女主角尤斯蒂娅（缇娅）线才是揭开世界终极秘密的真结局；\n3.沉重的道德拷问：没有绝对的对错，玩家需要在生存、信仰、利益与爱之间做出极其残酷的抉择。\n【适合人群】Galgame资深玩家及剧情党；喜欢黑暗幻想、宏大世界观与群像剧的受众；对探讨人性、信仰与阶级等深刻主题感兴趣的玩家；PC、PS4及NintendoSwitch玩家。\n【特色】2011年PC首发，2022年6月23日登陆PS4与Switch平台。\n本作最大的亮点在于其“没有法的天平”的冰冷世界质地。在这里，正义、理想与秩序都不可靠，真正决定人如何活下去的是阶层、暴力与利益的咬合。游戏没有把“揭露真相”当成终点，而是将其作为一种更尖锐的拷问。\n女主角尤斯蒂娅（缇娅）被喻为“逆境中绽放的向日葵”，她身患羽化病，真实身份却是天使之女。她为了净化世界福音甘愿牺牲自我的剧情，构成了对绝望世界最极致的救赎。\n【语言】内附汉化补丁。",
+        "quarkLink": "https://pan.quark.cn/s/26dfa3bb1de8",
+        "thunderLink": "https://pan.xunlei.com/s/VP7RJVkwXbCzDXPPCXpr-WO7A1?pwd=xbev#"
+      },
+      {
+        "id": 2876,
+        "name": "逃脱：沉浸 v1.0.0",
+        "nameEn": "Escape Immersion",
+        "type": "MXJM",
+        "typeLabel": "冒险解谜",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2876/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2876/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2876/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2876/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2876/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2876/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2876/006.png"
+        ],
+        "description": "\n【类型】恐怖冒险(Horror)/生存解谜/2.5D横版/电影化叙事\n【剧情】你在一座持续崩塌的海底军事基地中苏醒，丧失了所有记忆。基地的钢结构不堪重压，刺耳的断裂声不绝于耳，海水正顺着破损处大量涌入。在幽深昏暗、危机四伏的走廊里，你不仅要面对随时可能致命的陷阱与不明阴影，还要在逃生途中逐步拼凑出自己被遗忘的过去与身世真相。\n【玩法】核心为“高压生存+环境解谜+动态危机+身世探寻”：\n1.极高压生存环境：游戏容错率极低，任何一次操作失误都可能导致致命结局。玩家必须在不断坍塌的基地中快速反应，适应动态变化的环境并持续向前探索；\n2.电影化横版探索：采用2.5D横向卷轴视角，玩家需穿行于被洪水淹没的幽暗廊道，破解各类环境谜题，同时躲避致命的陷阱与未知威胁；\n3.动态随机事件：场景内拥有大量动态且不可预测的突发事件，随时会打断探索节奏，时刻保持强烈的压迫感与紧张度；\n4.悬念叙事设计：主角尘封的记忆与过往贯穿全程，生存冒险与身世谜团相互交织，持续牵引玩家探寻真相。\n【适合人群】《Inside》《LittleNightmares（小小梦魇）》等横版解谜游戏爱好者；喜欢深海恐惧、幽闭空间与硬核生存设定的玩家；对VHS复古视觉风格与电影化叙事感兴趣的受众；PC、iOS及Android玩家。\n【特色】2026年10月9日全平台正式发售（Steam国区首发享25%折扣）。\n本作最大的亮点在于其“令人窒息的深海沉浸感”。游戏采用了独特的VHS复古视觉风格，打造出极具压抑感的恐怖基调。历经四年多的开发打磨，游戏在发售后推出了包含70多项修复与改进的大型更新，大幅提升了环境交互（如搬运物体、攀爬梯子）的可靠性，并重新设计了溺水与冰冻的死亡状态，使其更加真实且具电影感。\n此外，游戏无需快速反应事件（QTE）即可游玩，并支持自定义音量控制，对各类玩家十分友好。\n【语言】原生支持简体中文、繁体中文、英文、日文、韩文等20余种语言界面与全字幕。\n文本翻译精准还原了水下基地的幽闭压抑感与悬疑叙事的紧张氛围。\n全程无语音对白，但BGM与音效设计极具氛围感，配合钢铁断裂声、水流涌入声及环境互动反馈，将深海求生的沉浸感烘托到极致。",
+        "quarkLink": "https://pan.quark.cn/s/a5d66c0e5eb8",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvUIoNsqAKmW526mhhdJVA1"
+      },
+      {
+        "id": 2877,
+        "name": "脱逃者2 逃脱者2 困境突围",
+        "nameEn": "The Escapists 2",
+        "type": "MXJM",
+        "typeLabel": "冒险解谜",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2877/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2877/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2877/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2877/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2877/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2877/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2877/006.png"
+        ],
+        "description": "\n【类型】沙盒模拟/益智策略/潜行/越狱模拟\n【剧情】本作没有传统意义上的主线故事。玩家扮演一名被关押在戒备森严监狱中的囚犯，面对漫长刑期，你需要在遵守监狱严苛作息的同时，暗中搜集物品、制作工具，利用一切可能的手段从世界上最艰苦的监狱中逃脱。\n【玩法】核心为“日常作息伪装+道具合成+潜行躲避+多维逃脱路线”：\n1.伪装与作息：玩家必须按时参加点名、工作和锻炼。错过日常安排会提升监狱的“警戒度”，引来更多狱警、警犬甚至重装特警的巡逻；\n2.深度合成系统：收集日常合法物品（如牙膏、胶带、梳子），在隐蔽处合成铲子、撬棍、伪装服甚至麻醉枪等越狱关键道具；\n3.社交与好感度：通过送礼或完成狱友任务提升好感度，高好感度可解锁专属商品购买；反之，低好感度的狱友可能会攻击你或向狱警举报你的违法行为；\n4.多样化逃脱：每个监狱都有独特的逃脱方式，如挖地道、剪铁丝网、伪装成工作人员大摇大摆走出大门，甚至伪造死亡从太平间溜走。\n【适合人群】《模拟人生》等沙盒游戏爱好者；喜欢潜行、资源管理与策略规划的玩家；热衷于与好友联机合作（或互相“背刺”）的受众；PC、主机及移动端玩家。\n【特色】2017年8月22日首发，后续登陆全平台（国服手游版名为《逃脱者：困境突围》）。\n本作最大的亮点在于其“沙盒越狱”的极致自由度。相比前作，本作加入了多层建筑、通风管道、警犬、警戒度系统以及更丰富的战斗机制（如锁定、格挡、轻重攻击），让越狱过程充满变数与挑战。\n游戏支持最多4人在线合作模式，你可以和队友分工合作（一人挖洞、一人放风）；同时也支持对抗模式，在限定时间内看谁先逃出生天。\n【语言】附汉化补丁。",
+        "quarkLink": "https://pan.quark.cn/s/cfd91c7f2509",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvYRtqZr8Nb4dFinBjaJjA1"
+      },
+      {
+        "id": 2878,
+        "name": "一生推不如一生恋 v1.0.1",
+        "nameEn": "love or die OshiRabu Waifus Over Husbandos - Love or Die",
+        "type": "LYYC",
+        "typeLabel": "恋爱养成",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2878/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2878/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2878/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2878/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2878/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2878/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2878/006.png"
+        ],
+        "description": "\n【类型】百合向恋爱/视觉小说(AVG)/喜剧日常/多语言\n【剧情】故事发生在前作结局的一年后。倒霉阿宅白领“速星爱来”与拥有超强抽卡运的辣妹“古馆恋”已过上恩爱的同居生活。某天，爱来偶然看到恋的志愿表上写着“第一志愿：和爱来结婚！”。虽然爱来嘴上拒绝，却因嫉妒恋的初中前辈宇堂蓝爱，冲动之下接受了求婚。回过神时，恋已开启“新娘狂热模式”疯狂策划婚礼，爱来不仅要应对繁琐的备婚日常，还要抵御蓝爱对恋的猛烈攻势。\n【玩法】核心为“视觉小说体验+多分支选择+甜蜜同居日常”：\n1.纯正视觉小说：游戏以剧情阅读和选项分支为核心，玩家通过对话与抉择，沉浸式体验两位女主角从同居走向婚姻殿堂的欢乐日常；\n2.甜蜜与危机并存：在筹备婚礼的鸡飞狗跳中，穿插了爱来对“二次元推”与“三次元恋人”的情感平衡，以及应对情敌（蓝爱）的搞笑修罗场；\n3.多结局分支：游戏包含多个选项与结局分支（如TrueEnd、HappyEnd与BadEnd），玩家的选择将决定两人能否顺利步入婚姻殿堂。\n【适合人群】《一生推不如一生恋》前作玩家；喜欢百合向、辣妹与阿宅反差萌设定的受众；热衷于恋爱喜剧、同居日常与轻松发糖体验的视觉小说爱好者；PC玩家。\n【特色】2021年7月30日Steam发售（支持日、英、简繁中文、韩文）。\n本作最大的亮点在于其“结婚后日谈”的甜蜜定位。相比前作的同居拉扯，本作直接进入了“谈婚论嫁”的阶段，CG数量虽有所精简，但画风依旧精美可爱。\n官方提供了包含本体、续作、原声带及专属DLC（如交换日记、婚礼戒指等）的捆绑包（Bundle），性价比极高。\n【语言】原生支持简体中文、繁体中文、英文、日文、韩文界面与全字幕。\n文本翻译精准还原了日式百合喜剧的轻松幽默感与阿宅文化的专有名词。\n全程日语豪华声优配音（速星爱来：猫村ゆき、古馆恋：北大路ゆき等），配合轻快甜蜜的BGM，将同居发糖的氛围烘托到极致。",
+        "quarkLink": "https://pan.quark.cn/s/f5c429a85328",
+        "thunderLink": "https://pan.xunlei.com/s/VP7Uv_4Kfh4ejwn6jHbhg64YA1"
+      },
+      {
+        "id": 2879,
+        "name": "三角符文1-5章章版",
+        "nameEn": "v1.06 Deltarune Chap. 1-5",
+        "type": "JSBY",
+        "typeLabel": "角色扮演",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2879/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2879/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2879/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2879/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2879/004.png"
+        ],
+        "description": "\n【类型】角色扮演(RPG)/回合制弹幕战斗/剧情驱动/多结局分支\n【剧情】故事围绕人类小孩Kris与同班同学Susie展开。两人意外坠入神秘的“暗世界”，结识了自称黑暗王子的Ralsei。为了阻止黑暗喷泉吞噬世界，三人结伴踏上封印喷泉的旅途。在探索卡片王国、赛博都市、深夜剧场、神圣教堂以及最新的花海秘境的过程中，玩家将逐步揭开隐藏在世界背后的真相以及“骑士”的身份。\n【玩法】核心为“回合制策略+弹幕躲避+ACT互动+多路线抉择”：\n1.经典弹幕战斗：延续《Undertale》风格，在回合制战斗中，玩家需操控红心躲避敌人的弹幕攻击，同时通过策略选择进行反击或宽恕；\n2.ACT互动机制：除了战斗，玩家还可以通过“安抚”、“鼓励”等ACT指令与敌人互动，和平解决冲突，这直接影响剧情走向与结局；\n3.多分支路线：玩家的选择将影响对话走向、角色关系甚至触发不同的Boss战（如第二章的SpamtonNEO或冰封线），极大增强了重复游玩价值。\n【适合人群】《Undertale》系列粉丝及独立游戏爱好者；喜欢多分支剧情、弹幕躲避与回合制策略的玩家；热衷于探索隐藏要素与角色深度塑造的受众；PC与移动端玩家。\n【特色】游戏采用分章发售模式，目前已更新至第五章（GREEN），并推出了1-5章完整汉化版（如v6.0.0等版本），支持一键下载与云存档，移动端还自带虚拟键盘优化了操作体验。\n本作最大的亮点在于其“高自由度选择”与“极具个性的角色塑造”。无论是傲娇的Susie、胆小的Noelle还是神秘的Flowey，每个角色都有极高的记忆点。配合TobyFox极具灵魂的音乐，将幽默、感性与紧张感完美融合。\n【语言】原生支持简体中文、英文、日文等多语言界面与全字幕。\n全面中文汉化版对主线剧情、UI界面及对话内容进行了本地化调整，让玩家可以无障碍体验丰富的剧情细节与角色设定。\n全程无语音对白，但BGM与音效表现极强，完美烘托了各个暗世界（如赛博朋克、恐怖悬疑、花海秘境）的独特氛围。",
+        "quarkLink": "https://pan.quark.cn/s/405abcb4bf8b",
+        "thunderLink": "https://pan.xunlei.com/s/VP7Uv8G-3B9Bi67ZyyqgWZfkA1"
+      },
+      {
+        "id": 2880,
+        "name": "波比的游戏时间5 v2.0",
+        "nameEn": "Poppy Playtime Chapter 5",
+        "type": "KBYX",
+        "typeLabel": "恐怖游戏",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2880/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2880/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2880/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2880/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2880/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2880/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2880/006.png"
+        ],
+        "description": "\n【类型】第一人称恐怖/生存解谜/潜行追逐/剧情驱动\n【剧情】故事紧接第四章结尾，玩家被唯一的盟友抛弃，被迫独自深入PlaytimeCo.玩具工厂最骇人的实验室深处。在这里，你将直面操纵一切恐怖事件的“致命傀儡师”——原型体1006（ThePrototype），并踏入其统治的“阴影领域（HisDomain）”。在躲避哈吉·伍吉（HuggyWuggy）无情追杀的同时，你将揭开这座工厂背后最黑暗、最血腥的活体改造实验真相。\n【玩法】核心为“GrabPack升级+环境解谜+高压潜行+多阶段追逐”：\n1.全新“压力手”机制：GrabPack新增了“压力手”功能，可蓄力释放冲击波，用于破坏障碍、激活重型机关，甚至在紧急时刻作为保命手段；\n2.阴影领域与精神裂痕：游戏引入了“阴影国度”机制，玩家需要在现实的工厂废墟与精神世界之间穿梭，修复时空裂痕，风险与收益并存；\n3.极限潜行与追逐：面对AI更聪明的哈吉·伍吉、新怪物“妈咪长腿”以及原型体，玩家需利用地形、储物柜和潜行技巧规避追击，游戏不支持正面战斗；\n4.深度收集与多结局：通过收集散落的录音带与文档拼凑世界观，集齐全部19份录音带可解锁包含完整工厂实验真相的“真结局”。\n【适合人群】《波比的游戏时间》系列老玩家；喜欢《面容》《逃生》等高压恐怖解谜游戏的受众；热衷于挖掘碎片化叙事与世界观设定的剧情党；PC、移动端及主机玩家。\n【特色】2026年2月18日PC首发，后续推出移动端（安卓/iOS）及主机版本。\n本作最大的亮点在于其“压迫感拉满的生存体验”与“剧情大揭秘”。明亮可爱的复古玩具美术与血腥诡异的工厂环境形成强烈反差，多阶段BOSS战（如利用蒸汽管道和电路过载牵制原型体）极具挑战性。\n游戏体量庞大，新增了大量可探索区域与饱受折磨的“新居民”，配合影视级的过场动画，沉浸感突破屏幕。\n【语言】原生支持简体中文、繁体中文、英文等多语言界面与全字幕。\n文本翻译精准还原了玩具公司的诡异童话感与实验记录的冰冷残酷。\n全程无语音对白，但BGM与音效设计极其出色，配合沉重的呼吸声、怪物的低语与追逐战的压迫音效，将恐怖氛围烘托到极致。",
+        "quarkLink": "https://pan.quark.cn/s/1ef66ddc4d7c",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvEoqnDNC7rgq5PSjB4wPA1"
+      },
+      {
+        "id": 2881,
+        "name": "星矿公司 v1.0.43",
+        "nameEn": "Star Ores Inc",
+        "type": "MNJY",
+        "typeLabel": "模拟经营",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2881/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2881/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2881/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2881/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2881/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2881/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2881/006.png"
+        ],
+        "description": "\n【类型】自动化模拟/资源管理/基地建设/科幻\n【剧情】故事设定在浩瀚的宇宙深处，玩家扮演一名初出茅庐的企业家，意外接管了一座废弃的太空站。为了开启属于自己的星际矿业帝国，你需要在这个充满矿石、机械与无限机遇的世界中白手起家，逐步成为宇宙矿业的传奇。\n【玩法】核心为“激光采矿+自动化流水线+机器人部署+市场交易”：\n1.激光精准采矿：玩家需使用激光钻机凿穿巨型小行星，精准切割并采集68种稀有金属与矿物；\n2.打造自动化生产链：利用传送带、模块化车间和提炼设备，将原矿加工为高价值的高科技产品，实现从开采到销售的全自动化；\n3.机器人助手网络：部署专业的机器人协助采矿、运输和销售，解放双手，大幅提升生产效率；\n4.探索与商业博弈：清理阻碍探索的外星蔓生物（孢块），重启旧终端解锁隐藏区域。同时，游戏内置了高达500%的货币价格波动机制，玩家需把握商机，低买高卖赚取利润。\n【适合人群】《异星工厂》《戴森球计划》等自动化建造游戏爱好者；喜欢科幻题材、资源管理与策略规划的受众；热衷于从零开始打造商业帝国的玩家；PC、PS5及NintendoSwitch玩家。\n【特色】2025年11月27日全平台发售（Switch版定价约£14.39/$25.99）。\n本作最大的亮点在于其将“太空探索”与“自动化建造”完美结合。玩家不仅能体验硬核的流水线规划，还能通过量子无人机等后期科技实现离线收益，兼顾了策略深度与休闲解压。\n游戏支持2至4人联机协作，非常适合与好友一起白手起家，共同垄断星际资源。\n【语言】原生支持简体中文、繁体中文、英文、日文、韩文等17种语言界面与全字幕。\n文本翻译精准还原了星际矿业公司的商业术语与科幻氛围。\n全程无语音对白，但BGM与机械运转音效极具沉浸感，配合激光切割与传送带的白噪音，将自动化生产的爽快感烘托到极致。",
+        "quarkLink": "https://pan.quark.cn/s/13de59dfbcab",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvDVvTWcUlraIVyq77BwsA1"
+      },
+      {
+        "id": 2882,
+        "name": "混乱出租车2 v1.0.4",
+        "nameEn": "Taxi Chaos 2",
+        "type": "PDXX",
+        "typeLabel": "派对休闲",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2882/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2882/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2882/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2882/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2882/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2882/005.png"
+        ],
+        "description": "\n【类型】街机竞速/开放世界探索/模拟驾驶/动作\n【剧情】故事发生在一座名为“圣瓦莱达（SanValeda）”的活力城市。玩家扮演一名落魄的出租车司机Vinnie，在这座被自动驾驶AI出租车（TaxiBots）统治的城市中艰难求生。为了对抗垄断市场的AI车队，你需要与时间赛跑，在混乱的街道中运送乘客，用高超的驾驶技术和战斗能力证明人类司机的价值。\n【玩法】核心为“限时载客+对抗AI+能力释放+永久成长”：\n1.经典街机载客：在限定的班次时间内，规划最佳路线（包括飞跃屋顶、寻找捷径），将乘客安全送达，同时满足他们的特殊需求以获取高额小费；\n2.对抗TaxiBots：AI出租车会抢夺乘客、封锁路线甚至主动撞击你。你可以利用战斗能力（如音波冲击、特斯拉电击）反击，或使用功能能力（如黑客工具、涡轮加速）突围；\n3.多样化乘客与车辆：乘客类型丰富（如重型乘客、火箭乘客），会改变车辆操控；提供10辆分属漂移、重型、运动三种类型的出租车供玩家解锁；\n4.双模式体验：包含以12分钟为一局的“故事模式”（推进剧情与等级）和纯粹追求高分的“街机模式”。\n【适合人群】《CrazyTaxi》等经典街机竞速游戏爱好者；喜欢开放世界探索、快节奏驾驶与高压操作的玩家；热衷于车辆升级与能力构筑的受众；PC、XboxSeriesX|S及NintendoSwitch玩家。\n【特色】2025年12月23日首发于PC（Steam）、XboxSeriesX|S和NintendoSwitch，2026年1月13日登陆PS5和EpicGamesStore。\n本作最大的亮点在于其“经典玩法，现代打磨”。游戏将即玩即用的街机动作与深度的永久进度、车辆升级相结合。在最新的1.0.2版本更新中，官方还大幅优化了车辆操控稳定性、增加了新目标类型，并引入了触觉反馈，使驾驶体验更加流畅。\n【语言】原生支持英文等多语言界面与全字幕。\n文本翻译贴合了街机游戏的幽默语感与城市导览的提示。\n全程无语音对白，但BGM与音效极具氛围感，配合车辆漂移、碰撞以及乘客对驾驶技术的吐槽反馈，将高压竞速的沉浸感烘托到极致。",
+        "quarkLink": "https://pan.quark.cn/s/4743093ceb0e",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvL59opdT6NFHhuJ8gxuFA1"
+      },
+      {
+        "id": 2883,
+        "name": "移植游戏 战神1+2合集 版",
+        "nameEn": "PSV",
+        "type": "fighting",
+        "typeLabel": "动作格斗",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2883/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2883/001.png"
+        ],
+        "description": "\n【类型】硬核动作冒险(ACT)/神话史诗/解谜/单机\n【剧情】\n1.《战神1》：斯巴达将军奎托斯为求胜利将灵魂出卖给战神阿瑞斯，却遭背叛痛失妻女。在众神指引下，他手持“混沌之刃”踏上复仇之路，最终弑杀阿瑞斯，却发现自己不过是众神棋盘上的一枚弃子。\n2.《战神2》：成为新战神的奎托斯遭宙斯背叛，神力被夺、坠入冥界。他联合泰坦巨人向奥林匹斯发起复仇，在命运三女神的迷宫中改写宿命，最终直面众神之王。\n【玩法】核心为“连招格斗+QTE处决+场景解谜+平台跳跃”：\n1.爽快连招：轻重攻击组合、浮空追击、抓取处决，配合“宙斯狂怒”“美杜莎凝视”等魔法，打击感拳拳到肉；\n2.QTE终结：在BOSS战或特定剧情节点，需根据屏幕提示快速按键，成功可触发华丽的处决动画，失败则受重创；\n3.场景解谜：利用重力、机关、视角切换开辟道路，部分谜题需结合魔法能力（如石化定身、波塞冬怒气推箱）；\n4.收集要素：隐藏的红魂箱、蛇发女妖之眼（加血）、凤凰羽毛（加魔）分布在各地图死角，全收集可大幅提升生存能力。\n【适合人群】动作游戏爱好者；喜欢希腊神话、暴力美学与史诗叙事的玩家；想补全《战神》系列世界观的“新战神”入坑党；PC、PS3、PSV及安卓（非官方）玩家。\n【特色】2009年PS3首发，2014年登陆PSV，2026年安卓非官方移植版上线。\n本作最大的亮点在于其“电影化叙事”与“暴力美学”的完美融合。从九头蛇BOSS战的震撼开场，到弑神QTE的压迫感，再到结局的悲壮反转，每一帧都是教科书级的演出。\n重制版将画面提升至720P/60帧，并加入奖杯系统，即便以2026年的眼光审视，其关卡设计与战斗手感依然不过时。\n【语言】汉化中文。",
+        "quarkLink": "https://pan.quark.cn/s/41544acddcf0",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvBWHrLDExBpEz1Gs3OfqA1"
+      },
+      {
+        "id": 2884,
+        "name": "开罗游戏：游戏发展国 v2.70",
+        "nameEn": "Game Dev Story",
+        "type": "MNJY",
+        "typeLabel": "模拟经营",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2884/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2884/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2884/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2884/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2884/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2884/005.png"
+        ],
+        "description": "\n【类型】模拟经营/像素风/游戏开发模拟/员工养成/全平台\n【剧情】玩家扮演一名怀揣梦想的初创游戏公司社长，在长达20年的游戏周期内，通过统筹资金、招募员工、开发游戏、参加展会等方式，逐步将一间简陋的小工作室打造为百万级销量的游戏帝国，最终目标是制作出殿堂级作品并在全球游戏大奖中夺冠。\n【玩法】核心为“类型题材搭配+员工属性养成+全流程研发+公司扩张”：\n1.游戏研发全流程：自由组合超过30种游戏类型（如RPG、动作）与50余种题材（如奇幻、科幻），研发过程中需分配员工负责策划、程序、美术、音效，并应对“灵感爆发”或“技术瓶颈”等随机事件；\n2.员工养成与转职：招募并培训程序员、编剧、画师等人才，通过升级与转职打造全能团队（如解锁高级职业“硬件工程师”以自主研发游戏主机）；\n3.市场与宣发：根据市场反馈调整定价与发行时机，投入资金进行广告宣传、参加游戏展会，提升作品曝光度与销量；\n4.公司扩张：平衡资金与人力成本，逐步升级办公室（从4人扩展至8人），解锁更多培训方式与招募渠道。\n【适合人群】《模拟城市》等模拟经营游戏爱好者；喜欢复古像素风、资源管理与策略规划的玩家；对游戏开发流程、行业生态感兴趣的受众；PC、移动端及主机玩家。\n【特色】1997年PC初代发售，2010年移动端版本爆火，现已登陆Steam、Switch、PS4及Xbox等全主流平台。\n本作最大的亮点在于其“套娃式”的游戏开发体验与深度的经营机制。游戏用极其简单的机制讲透了复杂的游戏行业，让玩家在“寻找爆款组合（如RPG+奇幻）”与“培养顶级员工”中获得极大的成就感。\n此外，游戏还内置了“委托开发”缓解资金压力、“自主开发主机”等进阶系统，极大地丰富了游戏的可玩性与长线目标。\n【语言】原生支持简体中文、繁体中文、英文、日文等多语言界面。\n文本翻译贴合了游戏行业的专业术语与开罗游戏一贯的幽默诙谐风格。\n全程无语音对白，但BGM采用极具节奏感的复古电子乐，配合员工敲键盘、灵感爆发时的清脆音效，将“肝游戏”的沉浸感烘托到极致。",
+        "quarkLink": "https://pan.quark.cn/s/18f14b093f4c",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvH5aOcEwMW0-tdECxUQQA1"
+      },
+      {
+        "id": 2885,
+        "name": "甜蜜女友2 アマカノ２ 海豹社",
+        "nameEn": "by",
+        "type": "LYYC",
+        "typeLabel": "恋爱养成",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2885/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2885/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2885/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2885/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2885/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2885/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2885/006.png"
+        ],
+        "description": "\n【类型】恋爱冒险(AVG)/视觉小说/纯爱日常/养成互动\n【剧情】故事发生在十月深秋的田园乡间“白鹭市”。主角在新干线上与充满谜团的少女黑姬结灯偶然相遇，随后又与转学后寄宿家中的表妹冰见山玲、以及邻家年长的青梅竹马茑町千岁产生了交集。在红叶飘落的宁静小镇中，你将与三位性格迥异的少女展开从相识、相知到相恋的甜蜜日常，用陪伴填补彼此内心的空缺。\n【玩法】核心为“好感度养成+场景互动+双向告白+多结局分支”：\n1.好感度互动系统：通过日常对话、赠送礼物、约会等方式提升好感度，好感度达标后解锁专属剧情与绝美CG；\n2.场景选择机制：在共通线中，通过选择不同地点（如屋顶、走廊、流转茶馆街）触发对应角色的专属事件，单推到底才能进入个人线；\n3.双向告白抉择：进入个人线后，玩家可选择主动“传达心意”表白，或等待对方“逆告白”，两种选择将导向不同的甜蜜结局；\n4.动态Live2D演出：角色立绘支持眨眼、撩发、肢体微动等实时反馈，配合全程语音，沉浸感极强。\n【适合人群】Galgame爱好者及纯爱党；喜欢高质量Live2D、全语音与治愈系日常的受众；热衷于多结局收集与角色养成的玩家；PC、Android及NintendoSwitch玩家。\n【特色】2020年PC首发，2022年推出PerfectEdition，2023年发售后日谈《甜蜜女友2+》（夏季篇），2025年登陆Switch。\n本作最大的亮点在于其“将甜蜜做到极致”的剧本与演出。没有狗血误会，没有沉重世界观，只有烟火大会的并肩、生病时的守候和放学后的羞涩告白。\n黑姬结灯线被玩家誉为“神中神”，其剧情深度与人设塑造获得了极高评价；后日谈《甜蜜女友2+》则将时间线推进至夏季，补全了更多婚后/恋人日常。\n【语言】全汉化。by\nxiaoxinxinxin",
+        "quarkLink": "https://pan.quark.cn/s/77983775b1a7",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvVxMQee6p1tF0S8s84lFA1"
+      },
+      {
+        "id": 2886,
+        "name": "尼克卡通与命运之骰 v1.4.0",
+        "nameEn": "Nicktoons & The Dice of Destiny",
+        "type": "JSBY",
+        "typeLabel": "角色扮演",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2886/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2886/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2886/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2886/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2886/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2886/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2886/006.png"
+        ],
+        "description": "\n【类型】动作角色扮演(ARPG)/本地合作/奇幻冒险\n【剧情】故事由《奇幻魔法屋》（TheFairlyOddParents）的提米·特纳（TimmyTurner）的一个愿望引发，他不仅让心爱的游戏化为现实，还将海绵宝宝、阿凡达、忍者神龟等各个动画宇宙的角色卷入其中。为了回到各自的世界，这些传奇英雄必须携手踏上充满奇幻色彩的冒险，对抗普兰克顿（Plankton）、阿祖拉（Azula）等标志性反派。\n【玩法】核心为“经典角色RPG化+实时动作战斗+本地多人合作”：\n1.传奇角色奇幻重塑：玩家可选择海绵宝宝、卡塔拉（Katara）、李奥纳多（Leonardo）、桑迪（Sandy）等9位角色，他们被重塑为法师、野蛮人、骑士等经典RPG职业，拥有专属武器与技能；\n2.实时动作战斗：游戏采用快节奏的ARPG战斗，玩家需通过挥砍、施法、完美闪避与连招来击败敌人，并可通过升级武器和解锁新技能来强化角色；\n3.1-4人本地合作：支持最多4人本地同屏游玩，玩家可自由搭配角色组队，在战斗中实现技能互补，非常适合家庭聚会或朋友同乐。\n【适合人群】尼克动画（Nicktoons）系列IP粉丝及美式卡通爱好者；喜欢《暗黑破坏神》等俯视角ARPG与割草体验的玩家；寻找无暴力、适合亲子同乐或派对游戏的受众；PC、PS5、XboxSeries及NintendoSwitch玩家。\n【特色】2025年9月30日首发，2025年12月5日推出NintendoSwitch2版本。\n本作最大的亮点在于其“跨宇宙全明星阵容”与“桌游RPG美学”的完美结合。游戏不仅还原了角色们的经典招式（如海绵宝宝的锅铲、卡塔拉的水宗术），还加入了丰富的探索元素（如谜题、支线任务）与极具挑战性的史诗Boss战。\nSwitch2版本更是进行了深度优化，支持1240p分辨率与60fps流畅帧率，并增强了光影与粒子特效，且对初代Switch玩家提供免费性能升级。\n【语言】附汉化补丁。BYB站：水の仙\n文本为纯正的美式卡通幽默与奇幻RPG风格。\n全程无语音对白，但BGM极具活力，配合角色标志性的音效与快节奏的战斗反馈，将轻松愉快的冒险氛围烘托到极致。\n无中文选项，但游戏UI直观，且核心玩法依赖动作与视觉引导，配合机翻或攻略即可无障碍体验。",
+        "quarkLink": "https://pan.quark.cn/s/330dd3010ec7",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvQhPFrMYZ14l4YZAD8lfA1"
+      },
+      {
+        "id": 2887,
+        "name": "埃尔登：遗忘之旅 v1.0.4",
+        "nameEn": "Elden Path of the Forgotten",
+        "type": "fighting",
+        "typeLabel": "动作格斗",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2887/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2887/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2887/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2887/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2887/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2887/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2887/006.png"
+        ],
+        "description": "\n【类型】动作冒险/像素风RPG/黑暗奇幻/独立游戏\n【剧情】故事发生在一片被远古邪恶力量操控的枯萎大地。主角埃尔登（Elden）的母亲被黑暗力量掳走，为了拯救受难的母亲，他必须独自踏上这条充满魔兽与谜团的“遗忘之路”，在战斗与探索中逐渐揭开这片神秘大陆的惊人秘密。\n【玩法】核心为“即时战斗+耐力管理+间接叙事+魔法构筑”：\n1.反应型战斗：战斗基于玩家的即时反应而非单纯数值，需合理分配体力、调整走位、等待最佳攻击时机或掌握弹反技巧；\n2.间接叙事：游戏采用非传统的叙事方式，如同“阅读一本异国语言的绘本”，通过环境、道具和碎片化信息拼凑故事，极具探索感；\n3.魔法与武器：可习得多种战斗魔法与残酷武器，配合道具在高压环境下生存；\n4.氛围探索：色调整体偏暗，配合电闪雷鸣与寂寥风雨声，营造出极强的孤独感与神秘感。\n【适合人群】《黑暗之魂》《盐与避难所》等硬核动作RPG爱好者；喜欢像素风、黑暗奇幻与碎片化叙事的玩家；热衷于独立游戏与氛围体验的受众；PC与Switch玩家。\n【特色】本作最大的亮点在于其“一人开发”的极致氛围感。虽然像素画面不华丽，但配色巧妙，魔兽出现时的电闪雷鸣与沿途的风雨声完美烘托了“孤独寻母”的绝望与希望。\n游戏包含克苏鲁风格的恐怖敌人与BOSS，战斗节奏紧凑，非常考验玩家的耐心与操作。\n【语言】原生支持简体中文、繁体中文、英文、日文等19种语言界面与全字幕。\n文本翻译贴合了黑暗奇幻的史诗感与间接叙事的晦涩美感。\n全程无语音对白，但BGM与音效（如脚步、风雨、雷鸣）极具沉浸感，完美还原了“在这片大陆只有你自己”的孤寂体验。",
+        "quarkLink": "https://pan.quark.cn/s/bfe117ae7cab",
+        "thunderLink": "https://pan.xunlei.com/s/VP7Uv9XmH2JQeh2zNcBksiMhA1"
+      },
+      {
+        "id": 2888,
+        "name": "冥狱战术 v2.1.24",
+        "nameEn": "Hadean Tactics",
+        "type": "CLHH",
+        "typeLabel": "策略回合",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2888/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2888/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2888/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2888/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2888/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2888/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2888/006.png"
+        ],
+        "description": "\n【类型】策略(SLG)/Roguelike/卡牌构筑/自走棋\n【剧情】故事设定于“冥狱”地下世界。玩家扮演英雄，目标是招募被困于冥狱的灵魂，组建队伍并协助你的英雄击败统治该领域的终极敌人——“地狱六翼”。\n【玩法】核心为“自动战斗+卡牌干预+卡组构筑+羁绊搭配”：\n1.半实时战斗系统：招募的灵魂单位会在棋盘上自动进行战斗，玩家无需手动微操普攻，而是通过打出卡牌来影响单位的行动（如施加护盾、改变攻击目标或触发法术）；\n2.Roguelike卡组构筑：每次游戏都会探索一张程序生成的新地图，在冒险途中收集卡牌、遗物，并不断升级和精简自己的卡组；\n3.联盟与羁绊：将卡牌、遗物与单位的技能、联盟羁绊相结合，发展出如龙族、盾牌、腐烂或召唤流等多样化的协同效应和战略；\n4.自定义英雄：除了3名自带独特卡组的初始英雄，玩家还可以创建自定义英雄，自由搭配技能与羁绊，测试自己的战术构想。\n【适合人群】《杀戮尖塔》《怪物火车》等DBG（卡组构筑）游戏爱好者；喜欢自走棋、自动战斗与策略规划的受众；热衷于Roguelike高重玩价值与流派开发的玩家；PC玩家。\n【特色】本作最大的亮点在于其“缝合得恰到好处”的创新体验。它将卡牌构筑的策略性与自走棋的自动战斗完美融合，玩家既是指挥官也是战术大师。\n游戏内容极其丰富，包含超过260张卡牌、34种可招募单位、95+件遗物以及45+种联盟羁绊，配合20个腐败（难度）等级，提供了极长的游玩寿命。\n【语言】原生支持简体中文、繁体中文、英文、日文等12种语言界面。\n文本翻译精准还原了黑暗奇幻风格与卡牌策略的专有名词。\n全程无语音对白，但BGM与音效极具氛围感，配合卡牌打出与单位自动攻击的清脆反馈，将半实时战斗的沉浸感烘托到极致。",
+        "quarkLink": "https://pan.quark.cn/s/e9743d26841b",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvOn_8ny-fOep32dxoqlVA1"
+      },
+      {
+        "id": 2889,
+        "name": "鬼魂大师 重生 v2.0",
+        "nameEn": "Ghost Master Resurrection",
+        "type": "CLHH",
+        "typeLabel": "策略回合",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2889/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2889/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2889/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2889/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2889/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2889/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2889/006.png"
+        ],
+        "description": "\n【类型】策略战棋(SLG)/解谜冒险/资源管理/恐怖喜剧\n【剧情】故事发生在一个被幽灵缠绕的小镇。玩家将扮演掌控超自然力量的“鬼魂大师”，召唤并指挥由幽灵、女妖、恶灵和小妖精组成的鬼怪军团。你的目标是在精神病院、警察局、军事基地等11个风格迥异的场景中制造超自然混乱，通过解谜揭开小镇背后的隐藏秘密，并将所有活人居民吓得落荒而逃。\n【玩法】核心为“幽灵附身+惊吓连锁+资源管理+多分支解谜”：\n1.幽灵附身与能力触发：将不同的幽灵绑定到特定物体（如捣蛋精灵绑定电器、普通幽灵绑定室内），激活专属能力（如引发短路、念力移物）来惊吓附近的人类；\n2.惊吓连锁与资源循环：人类被惊吓后会产生“恐惧值（Plasm）”，这是释放高级技能和召唤更多幽灵的核心资源，玩家需合理规划惊吓顺序以达成“连锁爆发”；\n3.战术与Build构筑：游戏包含超过20种特性各异的幽灵，玩家可在“食尸鬼房间（GhoulRoom）”中消耗资源升级幽灵、解锁技能分支，甚至利用重制版新增的“幽灵融合”系统打造专属战术；\n4.非线性解谜：每个关卡提供多种通关方式，除了常规惊吓，还可以通过附身关键人物引发内斗，或寻找隐藏密室完成多分支目标。\n【适合人群】《模拟人生》（但控制幽灵版）及《神鬼寓言》等策略游戏爱好者；喜欢黑色幽默、超自然题材与资源管理的玩家；热衷于多路线解谜与Build构筑的受众；PC、PS5、XboxSeries及NintendoSwitch玩家。\n【特色】本作最大的亮点在于其“经典玩法的现代化重构”。游戏采用全新引擎（据称使用了虚幻引擎5技术）重制了所有场景的光影与物理效果，幽灵的物理模拟精度大幅提升，并加入了动态天气系统（如雨夜增强水系幽灵能力）。\n此外，游戏支持官方简体中文，且主机实体版直接包含了四个DLC内容，性价比极高。\n【语言】原生支持简体中文、繁体中文、英文、日文等多语言界面与全字幕。\n文本翻译精准还原了游戏的黑色幽默、搞怪语感与超自然策略的专有名词。\n全程无语音对白，但BGM与音效极具氛围感，配合幽灵的哀嚎、物品碎裂声与人类惊恐的尖叫，将“恐怖又欢乐”的闹鬼体验烘托到极致。",
+        "quarkLink": "https://pan.quark.cn/s/79d69fc32a20",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvJC1_ZDiKpNPYNMmyTRpA1"
+      },
+      {
+        "id": 2890,
+        "name": "简单高尔夫 v1.9.1",
+        "nameEn": "Easy Come Easy Golf",
+        "type": "TYJS",
+        "typeLabel": "体育竞速",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2890/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2890/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2890/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2890/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2890/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2890/005.png"
+        ],
+        "description": "\n【类型】休闲益智/体育模拟/街机/单机小游戏\n【剧情】本作没有复杂的剧情线。玩家扮演一名高尔夫球手，需要在各种设计巧妙、充满障碍的水上平台或迷你球场中，挑战物理规律，以最少的击球次数将球打入洞中。\n【玩法】核心为“鼠标蓄力+物理弹道+一杆进洞”：\n1.经典蓄力操作：通过移动鼠标控制击球方向，按住鼠标左键进行力度蓄力，松开左键发射小球；\n2.物理与地形：需预判球在草地、水面、斜坡及障碍物上的弹跳与滚动轨迹；\n3.关卡挑战：以最少杆数过关，追求“一杆进洞（HoleinOne）”的极致成就感。\n【适合人群】喜欢《迷你高尔夫》等休闲体育游戏的玩家；寻找碎片时间解压神作的受众；PC与移动端玩家。\n【特色】主打极简操作与物理反馈，无需下载庞大的客户端，即点即玩，是杀时间利器。\n【语言】原生支持英文界面。\n全程无语音对白，BGM轻松惬意，配合击球时的清脆音效与入洞的反馈，将休闲解压的氛围烘托到极致。",
+        "quarkLink": "https://pan.quark.cn/s/e5bf6d9d205b",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvMTMNFEyrdPCD4Jc-ggvA1"
+      },
+      {
+        "id": 2891,
+        "name": "奇异园艺 怪奇园艺店 v1.1.51",
+        "nameEn": "Strange Horticulture",
+        "type": "MXJM",
+        "typeLabel": "冒险解谜",
+        "cover": "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SWFM/2891/fm001.png",
+        "screenshots": [
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2891/001.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2891/002.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2891/003.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2891/004.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2891/005.png",
+          "https://pub-1f2ba50106ed4026bd217cd777924d22.r2.dev/SwIMG/2891/006.png"
+        ],
+        "description": "\n【类型】神秘学解谜/模拟经营/剧情驱动/多结局\n【剧情】故事发生在一个被沼泽与崎岖山脉环绕的古朴小镇“昂德米尔（Undermere）”。玩家扮演一名隐居的园艺家，继承了当地一家名为“奇异园艺”的植物商店。随着形形色色的顾客登门，你被卷入了一场延续数百年的黑暗阴谋中。在这个世界里，植物不仅是自然产物，更蕴含着治愈、诅咒甚至改变命运的强大力量。\n【玩法】核心为“植物鉴定+顾客服务+野外探索+情境决策”：\n1.植物鉴定与图鉴检索：你需要利用园艺学知识，根据图鉴上或详或略的记载，通过交叉检索和提取线索来鉴别各种奇异植物；\n2.顾客服务与药剂调配：对比植物的特性与顾客的需求（如治疗疾病、催眠、甚至暗杀），将正确的植物或调配出的药剂交给他们；\n3.野外探索与线索追踪：通过与顾客交谈获取线索，亲自探索店外的幽暗森林与湖泊，寻找新的植物品种，但危险的环境可能会让你迷失心智；\n4.多分支与多结局：你的选择（如与女巫团体交谈、加入异教或对抗反派）将直接影响故事走向，游戏共有8种不同的结局等待解锁。\n【适合人群】《请出示证件（Papers,Please）》等硬核解谜游戏爱好者；喜欢神秘学、克苏鲁风格与碎片化叙事的玩家；热衷于植物学、图鉴收集与逻辑推理的受众；PC与移动端玩家。\n【特色】2022年PC首发，2024年推出移动端重制版（优化了触屏操作与UI），并曾在Epic平台免费赠送。\n本作最大的亮点在于其“极具沉浸感的硬核解谜”。游戏没有直接的提示，玩家需要像真正的植物学家一样，在厚重的百科手册中查阅特征，结合日记、信件和对话中的上下文线索来推断植物身份。\n配合复古阴郁的手绘美术与极具氛围感的BGM，将“在危机四伏的小镇中经营神秘小店”的压迫感与代入感烘托到了极致。\n【语言】原生支持简体中文、繁体中文、英文等多语言界面与全字幕。\n文本翻译精准还原了神秘学氛围与植物学专有名词，日记与信件内容充满悬疑感。\n全程无语音对白，但BGM与音效（如翻书声、植物摩擦声）极具沉浸感，完美契合了阴郁压抑的小镇基调。",
+        "quarkLink": "https://pan.quark.cn/s/c5d229fa3860",
+        "thunderLink": "https://pan.xunlei.com/s/VP7UvSeMXbCzDXPPCXpuXyQuA1"
+      }
+    ]
+  }
+]
