@@ -1,10 +1,10 @@
 {
-  "version": "2026-11-24.1500",
-  "updatedAt": "2026-11-24 14:48:35",
+  "version": "2026-11-28.1336",
+  "updatedAt": "2026-11-28 13:36:23",
   "files": {
-    "game.txt": "https://cdn.jsdelivr.net/gh/GameTogether1/Software@main/data/game.txt",
-    "switch_games.json": "https://cdn.jsdelivr.net/gh/GameTogether1/Software@main/data/switch_games.json",
-    "game.json": "https://cdn.jsdelivr.net/gh/GameTogether1/Software@main/data/game.json",
-    "announcements.json": "https://cdn.jsdelivr.net/gh/GameTogether1/Software@main/data/announcements.json"
+    "game.txt": "https://gitee.com/GameTogether1/game-together-release/raw/master/data/game.txt",
+    "switch_games.json": "https://gitee.com/GameTogether1/game-together-release/raw/master/data/switch_games.json",
+    "game.json": "https://gitee.com/GameTogether1/game-together-release/raw/master/data/game.json",
+    "announcements.json": "https://gitee.com/GameTogether1/game-together-release/raw/master/data/announcements.json"
   }
 }
